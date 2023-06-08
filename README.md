@@ -6,7 +6,7 @@
 I'm a tech enthusiast with interest in low level programming and cyber-security
 
 
- - Current projects in progress:
+ ### Current projects in progress:
   * deploying a simple website with IRC server 
 
 
