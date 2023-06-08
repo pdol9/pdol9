@@ -4,8 +4,10 @@
 </div>
 :man_technologist: About Me :
 I'm a tech enthusiast with interest in low level programming and cyber-security
- 
- - more to come ..
+
+
+ - Current projects in progress:
+  * deploying a simple website with IRC server 
 
 
 <!--
