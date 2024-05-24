@@ -6,7 +6,7 @@
 <h2 align="center" class="section-heading">🔧 My Software Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,arduino,typescript,docker,bash,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,arduino,rust,typescript,docker,bash,git" />
   </a>
 </p>
 </br>
