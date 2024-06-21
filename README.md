@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&center=true&vCenter=true&random=false&width=745&height=80&lines=Hello+there!;This+is+my+Github+profile+.+.+.;.+.+.+a+place+where+I+share+my+code." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&center=true&vCenter=true&random=false&width=745&height=80&lines=Hello+there!;This+is+my+Github+profile;A+place+where+I+share+my+code." alt="Typing SVG" /></a>
 </div>
 </br>
 
 <h2 align="center" class="section-heading">🔧 My Software Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,arduino,rust,typescript,docker,bash,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,arduino,rust,typescript,java,bash,git,docker" />
   </a>
 </p>
 </br>
